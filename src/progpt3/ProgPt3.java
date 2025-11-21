@@ -42,7 +42,7 @@ public class ProgPt3 {
                     break;
                 case 2: // Exit
                     running = false;
-                    javax.swing.JOptionPane.showMessageDialog(null, "Goodbye!");
+                    javax.swing.JOptionPane.showMessageDialog(null,"Goodbye! thank you for using");
                     System.exit(0);  // Ensure JVM exits
                     break;
                 default:
